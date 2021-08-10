@@ -4,3 +4,4 @@ Hadi Dharma Resolusi:
 3.Membuat project mini tapi tidak mudah
 4.Pastikan siap pakai ketika pindah
 5.Jangan sia sia kan waktu sedikitpun
+6.Pelajari juga react native
